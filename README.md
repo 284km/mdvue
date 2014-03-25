@@ -1,6 +1,8 @@
 mdvue
 ===========
 
+Dead simple Markdown editor using Vue.js
+
 - vue
 - marked
 
