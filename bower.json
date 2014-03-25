@@ -1,0 +1,24 @@
+{
+  "name": "mdvue",
+  "version": "0.0.0",
+  "authors": [
+    "284km <k.furuhashi10@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "vue": "latest",
+    "marked": "latest"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "expect": "latest",
+    "sinon": "latest"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
